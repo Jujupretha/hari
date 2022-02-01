@@ -12,7 +12,7 @@ for(int i=0;i<s1.length;i++)
 	{String t=String.valueOf(c);
 	int n=Integer.parseInt(t);
 	sum=sum+n;
-	} }System.out.println(jujujayu);}}
+	} }System.out.println(pretha);}}
 	
 	
             	
